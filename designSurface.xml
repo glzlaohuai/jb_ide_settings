@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/home.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/honme.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/launcher.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/set_service_name.xml" value="0.18333333333333332" />
+      </map>
+    </option>
+  </component>
+</application>
