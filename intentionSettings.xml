@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Groovy-style/Add Single-Member Static Import in Groovy" />
+    <ignoreAction name="Android/Add activity to manifest" />
+  </component>
+</application>
