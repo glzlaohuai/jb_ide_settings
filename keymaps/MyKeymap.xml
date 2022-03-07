@@ -79,7 +79,7 @@
   </action>
   <action id="SendEOF" />
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+    <mouse-shortcut keystroke="meta button3" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="ctrl meta alt g" second-keystroke="l" />
