@@ -1,0 +1,27 @@
+<templateSet group="Go">
+  <template name="pf" value="fmt.Printf(&quot;$END$&quot;,$VAR$)" description="printf" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iferr" value="$ERR$ != nil {&#10; $END$&#10;}" description="if err shorter pattern2" toReformat="true" toShortenFQNames="true">
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="fmt.Println(&quot;$END$&quot;)" description="println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="forx" value="for $INIT$ ; $CHECK$; $STEP$ {&#10; $END$&#10;}" description="not index for loop" toReformat="true" toShortenFQNames="true">
+    <variable name="INIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CHECK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STEP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
