@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
