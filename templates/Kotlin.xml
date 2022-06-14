@@ -1,0 +1,10 @@
+<templateSet group="Kotlin">
+  <template name="pl" value="println($PARAMS$)$END$" description="println" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
