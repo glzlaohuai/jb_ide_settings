@@ -18,7 +18,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="CodeCompletion" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="delete" />
@@ -46,6 +48,7 @@
   <action id="Gradle.ToggleOfflineAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt t" second-keystroke="f" />
   </action>
+  <action id="HippieCompletion" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="ctrl meta alt 1" />
