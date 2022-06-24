@@ -10,7 +10,7 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+    <option name="lastViewedProviderKeyId" value="kotlin.call.chains.hints" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseI18nMessages" value="false" />
