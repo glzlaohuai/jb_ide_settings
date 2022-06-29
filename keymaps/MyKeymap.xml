@@ -60,6 +60,7 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt g" second-keystroke="h" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NextOccurence" />
   <action id="NextProjectWindow" />
   <action id="NextWindow" />
