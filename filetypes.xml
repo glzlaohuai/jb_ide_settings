@@ -10,12 +10,12 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="so" type="Native" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
-      <mapping pattern="ap_tick" type="PLAIN_TEXT" />
-      <mapping pattern="PushResultHandler" type="PLAIN_TEXT" />
       <mapping pattern="ap_tasks" type="PLAIN_TEXT" />
       <mapping pattern="frida-inject" type="PLAIN_TEXT" />
       <mapping pattern="security_config_net" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="ap_tick" type="PLAIN_TEXT" />
+      <mapping pattern="PushResultHandler" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping pattern="jsontoinstance" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
