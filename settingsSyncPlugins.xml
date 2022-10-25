@@ -7,6 +7,17 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="com.firsttimeinforever.intellij.pdf.viewer.intellij-pdf-viewer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.copilot">
           <value>
             <PluginData>
@@ -34,6 +45,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
       </map>
