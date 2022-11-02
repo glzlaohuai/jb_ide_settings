@@ -5,7 +5,6 @@
       <mapping pattern="1d2ed770-2c64-4fba-8a0f-522f402ddaa8" type="AUTO_DETECTED" />
       <mapping ext="dbfba8c9b6c56c2e547e735e4386932ff0" type="Android Room SQL" />
       <mapping ext="db" type="Android Room SQL" />
-      <mapping pattern="CMakeLists" type="CMakeLists.txt" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -22,9 +21,9 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
-      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="CMakeLists" type="CMakeLists.txt" />
     </extensionMap>
   </component>
 </application>
