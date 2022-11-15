@@ -1,9 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="MarkdownSettingsMigration">
-        <option name="stateVersion" value="1" />
-      </component>
       <component name="ProjectCodeStyleConfiguration">
         <code_scheme name="Project" version="173">
           <codeStyleSettings language="XML">
@@ -123,11 +120,10 @@
       </component>
       <component name="PropertiesComponent">
         <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-        <property name="go.import.settings.migrated" value="true" />
         <property name="project.structure.last.edited" value="SDK Location" />
         <property name="project.structure.proportion" value="0.17" />
         <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
       </component>
       <component name="masterDetails">
         <states>

@@ -5,22 +5,15 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="kotlin.ranges.hints" />
-    <settingsMapElement>
-      <kotlin.kotlin.references.types.hints>
-        <Settings>
-          <option name="functionReturnType" value="true" />
-          <option name="localVariableType" value="true" />
-          <option name="parameterType" value="true" />
-          <option name="propertyType" value="true" />
-        </Settings>
-      </kotlin.kotlin.references.types.hints>
-    </settingsMapElement>
+    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseI18nMessages" value="false" />
