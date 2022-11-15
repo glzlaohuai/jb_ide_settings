@@ -5,24 +5,26 @@
       <mapping pattern="1d2ed770-2c64-4fba-8a0f-522f402ddaa8" type="AUTO_DETECTED" />
       <mapping ext="dbfba8c9b6c56c2e547e735e4386932ff0" type="Android Room SQL" />
       <mapping ext="db" type="Android Room SQL" />
+      <mapping pattern="CMakeLists" type="CMakeLists.txt" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="so" type="Native" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
-      <mapping pattern="ap_tick" type="PLAIN_TEXT" />
-      <mapping pattern="PushResultHandler" type="PLAIN_TEXT" />
       <mapping pattern="ap_tasks" type="PLAIN_TEXT" />
       <mapping pattern="frida-inject" type="PLAIN_TEXT" />
       <mapping pattern="security_config_net" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="ap_tick" type="PLAIN_TEXT" />
+      <mapping pattern="PushResultHandler" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping pattern="jsontoinstance" type="Shell Script" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="CMakeLists" type="CMakeLists.txt" />
     </extensionMap>
   </component>
 </application>
