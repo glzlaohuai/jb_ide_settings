@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="about" type="AUTO_DETECTED" />
       <mapping pattern="1d2ed770-2c64-4fba-8a0f-522f402ddaa8" type="AUTO_DETECTED" />
+      <mapping pattern="proguard_words" type="AUTO_DETECTED" />
       <mapping ext="dbfba8c9b6c56c2e547e735e4386932ff0" type="Android Room SQL" />
       <mapping ext="db" type="Android Room SQL" />
       <mapping pattern="CMakeLists" type="CMakeLists.txt" />
