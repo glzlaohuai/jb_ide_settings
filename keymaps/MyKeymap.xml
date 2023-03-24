@@ -75,9 +75,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="shift meta alt f12" />
-  </action>
   <action id="SendEOF" />
   <action id="SplitVertically">
     <mouse-shortcut keystroke="meta button3" />
