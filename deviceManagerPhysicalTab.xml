@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="8APX0WKVS" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="CUQ4LBKFLZRWYH69" />
           </Key>
         </key>
