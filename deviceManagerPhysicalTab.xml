@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="63b4223a" />
-          </Key>
-        </key>
-        <name value="Xiaomi Mi 10" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="8APX0WKVS" />
           </Key>
         </key>
@@ -33,6 +22,17 @@
         <name value="Xiaomi Redmi Note 3" />
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="63b4223a" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi 10" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
