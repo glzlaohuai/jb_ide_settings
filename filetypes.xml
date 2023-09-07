@@ -18,6 +18,7 @@
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="ap_tick" type="PLAIN_TEXT" />
       <mapping pattern="PushResultHandler" type="PLAIN_TEXT" />
+      <mapping ext="ort" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping pattern="jsontoinstance" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
